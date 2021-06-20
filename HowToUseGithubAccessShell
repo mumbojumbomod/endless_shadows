@@ -1,0 +1,11 @@
+Save what you have done: 
+git add .   
+Then:
+git commit -m “comment”
+
+Upload to git: 
+git push -4 origin main
+
+
+Git username: mumbojumbomod
+Git password: 9a5ab32f94024aed7660ef0fb2ee1139f124e8d2
